@@ -1,0 +1,1 @@
+# pos_arabic_receipt
